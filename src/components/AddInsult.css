@@ -1,0 +1,20 @@
+.add-insult {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+}
+
+.add-insult input, textarea {
+    padding: 0.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    min-width: 250px;
+}
+
+.add-insult__text {
+    width: 400px;
+    min-height: 100px;
+    resize: none;
+}

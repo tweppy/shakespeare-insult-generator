@@ -1,0 +1,16 @@
+.insult-generator {
+    height: 200px;
+    margin-bottom: 3rem;
+}
+
+.insult-generator__text {
+    font-size: 2rem;
+    text-align: center;
+    color: #000;
+    height: 80px;
+    margin-bottom: 0;
+}
+
+.insult-generator__play {
+    color: rgb(55, 52, 59);
+}
